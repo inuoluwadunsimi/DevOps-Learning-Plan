@@ -7,8 +7,8 @@ This is my DevOps learning plan for the year 2024, it consists of both paid cour
 - Learn Go
 - Learn Kubernetes
 - Learn AWS
-- Ace the CKAD exam
-- Ace the KCNA exam
+
+
 
 ## Learning Plan
 
@@ -83,6 +83,4 @@ This is my DevOps learning plan for the year 2024, it consists of both paid cour
 ## Certifications
 
 - [AWS Cloud Practioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-- [Certified Kubernetes Administrator](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
-- [Certified Kubernetes Application Developer](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
-- [Kubernetes and Cloud Native Associate](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/)
+
